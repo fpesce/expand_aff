@@ -1,0 +1,10 @@
+-l 125 -i2 -npsl -di0 -br -nce -d0 -cli0 -npcs -nfc1
+-T aff_conf_t
+-T cell_t
+-T hash_t
+-T list_t
+-T mmap_wrapper_t
+-T rep_dst_t
+-T rep_t
+-T rule_t
+-T uint32_t
